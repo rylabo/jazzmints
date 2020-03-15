@@ -1,6 +1,6 @@
 # jasmine-ts
 
-[![Build Status](https://travis-ci.org/svi3c/jasmine-ts.svg?branch=master)](https://travis-ci.org/svi3c/jasmine-ts)
+[![Build Status](https://travis-ci.com/rylabo/jasmine-ts.svg?branch=master)](https://travis-ci.org/rylabo/jasmine-ts)
 
 A simplification for running [jasmine](https://www.npmjs.com/package/jasmine) with
 [ts-node](https://github.com/TypeStrong/ts-node).
