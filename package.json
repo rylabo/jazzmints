@@ -1,5 +1,5 @@
 {
-  "name": "jasmine-ts",
+  "name": "jazzmints",
   "version": "0.3.0",
   "description": "Execute jasmine with ts-node",
   "main": "lib/index.js",
@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/svi3c/jasmine-ts.git"
+    "url": "git+https://github.com/rylabo/jazzmints.git"
   },
   "keywords": [
     "node",
@@ -26,9 +26,9 @@
   "author": "Sven Reglitzki <sreglitzki@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/svi3c/jasmine-ts/issues"
+    "url": "https://github.com/rylabo/jazzmints/issues"
   },
-  "homepage": "https://github.com/svi3c/jasmine-ts#readme",
+  "homepage": "https://github.com/rylabo/jazzmints#readme",
   "dependencies": {
     "yargs": "^13.2.4"
   },

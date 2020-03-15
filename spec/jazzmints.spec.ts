@@ -1,7 +1,7 @@
 import "jasmine"
 import * as js from "./inc.js"
 
-describe("jasmine-ts", () => {
+describe("jazzmints", () => {
 
   it("should work with TypeScript files", () => {
     expect(true).toBe(true);

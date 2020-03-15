@@ -1,6 +1,6 @@
-# jasmine-ts
+# jazzmints
 
-[![Build Status](https://travis-ci.com/rylabo/jasmine-ts.svg?branch=master)](https://travis-ci.org/rylabo/jasmine-ts)
+[![Build Status](https://travis-ci.com/rylabo/jazzmints.svg?branch=master)](https://travis-ci.org/rylabo/jazzmints)
 
 A simplification for running [jasmine](https://www.npmjs.com/package/jasmine) with
 [ts-node](https://github.com/TypeStrong/ts-node).
@@ -8,7 +8,7 @@ A simplification for running [jasmine](https://www.npmjs.com/package/jasmine) wi
 ## Installation
 
 ```
-npm i -D jasmine-ts
+npm i -D jazzmints
 ```
 
 ## Usage
@@ -18,14 +18,14 @@ npm i -D jasmine-ts
   ```json
   {
     "scripts": {
-      "test": "jasmine-ts \"path/to/specs/**/*.spec.ts\""
+      "test": "jazzmints \"path/to/specs/**/*.spec.ts\""
     }
   }
   ```
 * Initialize jasmine
 
   ```
-  node_modules/.bin/jasmine-ts init
+  node_modules/.bin/jazzmints init
   ```
 
   Note: This module enables the configuration support of
@@ -63,7 +63,7 @@ Example `package.json`:
 ```json
 {
   "scripts": {
-    "test": "nyc  -r lcov -e .ts -x \"*.spec.ts\" jasmine-ts \"path/to/specs/**/*.spec.ts\""
+    "test": "nyc  -r lcov -e .ts -x \"*.spec.ts\" jazzmints \"path/to/specs/**/*.spec.ts\""
   }
 }
 ```
