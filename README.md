@@ -1,6 +1,6 @@
 # jazzmints
 
-[![Build Status](https://travis-ci.com/rylabo/jazzmints.svg?branch=master)](https://travis-ci.org/rylabo/jazzmints)
+[![Build Status](https://travis-ci.org/rylabo/jazzmints.svg?branch=master)](https://travis-ci.org/rylabo/jazzmints)
 
 A simplification for running [jasmine](https://www.npmjs.com/package/jasmine) with
 [ts-node](https://github.com/TypeStrong/ts-node).
