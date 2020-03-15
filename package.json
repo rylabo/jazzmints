@@ -24,6 +24,7 @@
     "typescript"
   ],
   "author": "Sven Reglitzki <sreglitzki@gmail.com>",
+  "contributors": ["Ryan Laboucane <wasabiwimp@gmail.com>"],
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/rylabo/jazzmints/issues"
