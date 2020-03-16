@@ -1,6 +1,6 @@
 {
   "name": "jazzmints",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Execute jasmine with ts-node",
   "main": "lib/index.js",
   "bin": "lib/index.js",
@@ -24,7 +24,9 @@
     "typescript"
   ],
   "author": "Sven Reglitzki <sreglitzki@gmail.com>",
-  "contributors": ["Ryan Laboucane <rylabou@gmail.com>"],
+  "contributors": [
+    "Ryan Laboucane <rylabou@gmail.com>"
+  ],
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/rylabo/jazzmints/issues"
