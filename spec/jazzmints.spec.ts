@@ -1,5 +1,5 @@
-import "jasmine"
-import * as js from "./inc.js"
+import "jasmine";
+import * as js from "./inc.js";
 
 describe("jazzmints", () => {
 
@@ -9,6 +9,6 @@ describe("jazzmints", () => {
 
   it("should parse --compilerOptions properly", () => {
     expect(js).toBe(true);
-  })
+  });
 
 });
